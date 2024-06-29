@@ -1,0 +1,109 @@
+body{
+    background-color: #F7F9F2;
+    margin: 0px;
+    text-align: center;
+}
+
+h1{
+    padding: 50px 0 0 0;
+    margin-top: 0px;
+    margin: 0 auto;
+    font-family: "Playwrite AU VIC", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+h2{
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 1.5em;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
+h3{
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 1.1em;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+}
+hr{
+    width: 5%;
+    border-top-style: dotted;
+    margin: 50px auto 20px auto;
+    border-width: 8px 0 0 0;
+    border-color: #79DAE8;
+    padding: 20px;
+    
+}
+p{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    line-height: 2;
+    font-size:2;
+    
+}
+
+div{
+    margin: 0 auto 0 auto;
+}
+
+img{
+    margin: 0 auto;
+    
+}
+
+
+.top-container{
+    position: relative;
+    padding: 100px;
+    padding-bottom: 10px;
+    background-color: #79DAE8;
+}
+
+
+
+.contact-me{
+    padding-top: 20px;
+}
+
+.cloud_1{
+    position: absolute;
+    top: 100px;
+    right: 350px;
+}
+
+.cloud_2{
+    position: absolute;
+    left: 230px;
+}
+.code{
+    padding: 100px 0 0 0;
+    width: 10%;
+}
+
+.mountain{
+    width: 60%;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+.vr{
+    width: 20%;
+    float: right;
+    margin-left: 20px;
+}
+
+.cpu{
+    width: 20%;
+    float: left;
+    
+    padding-right:30px ;
+}
